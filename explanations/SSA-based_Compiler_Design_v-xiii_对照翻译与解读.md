@@ -132,7 +132,7 @@ By today’s standards, our original work was not really that useful: there were
 
 以今天的标准衡量，我们最初的工作其实并没有那么实用：当时只有少数几种技术，而且 SSA 形式仅适用于不存在别名关系的变量。但这项早期工作确立了程序设计语言变换应当采用的框架。本书既展示了 SSA 形式迄今取得的进展，也说明它若要用更高效、更强大的替代方案彻底取代旧技术，还需要走多远。我们的工作能够启发后来者开辟出如此强大而多样的研究方向，令我们既感激又深感谦卑。
 
-> 美国纽约州 Chappaqua / Yorktown Heights，2021 年 3 月  
+> 美国纽约州 Chappaqua / Yorktown Heights，2021 年 3 月
 > Kenneth Zadeck / Mark N. Wegman
 
 ## Foreword 解读
@@ -271,7 +271,7 @@ A few years after we initiated this project, as I was depressed by the time all 
 
 项目启动几年后，我因它耗时之久而倍感沮丧。那时我遇到 Springer 的 Charles Glaser，他对我说：“你的时间还多得很：我手上有一本书，花了 15 年才完成。”写下这些文字时，我的待办事项清单依然很长，但我可不想成为 Charles 口中的那个人，让他说：“别担心，你不可能比这本书更糟——他们 15 年前就开始写了，现在还没写完……”当然，你或许仍会在书中发现一些错别字或不一致之处，但应该不会太多。本书汇聚了众多优秀编译器专家的知识，其中还包括大量未发表的材料；今天能够将它正式出版，我深感自豪。
 
-> 法国格勒诺布尔，2021 年 2 月  
+> 法国格勒诺布尔，2021 年 2 月
 > Fabrice Rastello
 
 ## Preface 解读
